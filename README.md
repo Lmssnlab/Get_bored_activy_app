@@ -50,6 +50,4 @@ streamlit run app.py
 
 Cette application utilise l'API Bored API fournie par [Bored API](https://bored-api.appbrewery.com/).
 
-## Licence
 
-Ce projet est sous licence [MIT](LICENSE).
